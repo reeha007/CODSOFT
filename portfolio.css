@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWwlgaDEJhet9JP4FcPZ1cQbe85O7eDeGWw&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer,#he
+{
+    background-color: slategray;
+    padding: 15px;
+    margin-left: -20px;
+}
+footer{
+    color: #fff;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+#about {
+    padding: 20px;
+}
+
+.bio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.bio img {
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+#skills, #projects, #resume, #contact ,#certifications{
+    padding: 20px;
+}
+
+footer {
+    color: #222;
+    text-align: right;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
+#headincont
+{
+    background-color: #222;
+    color: #ffffffbc;
+    padding-top:15px ;
+    padding-bottom:15px ;
+    margin-top:15px ;
+    margin-bottom:15px ;
+    font-size: 25px;
+}
